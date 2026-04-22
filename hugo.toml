@@ -1,0 +1,4 @@
+baseURL = 'https://sophora-prostrata.github.io/my-blog/'
+locale = 'en-us'
+title = 'My Blog'
+theme = 'PaperMod'
