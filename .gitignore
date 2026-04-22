@@ -1,1 +1,15 @@
+# Hugo build output & cache
+public/
+resources/_gen/
+.hugo_build.lock
+ 
+# macOS
 .DS_Store
+ 
+# Editor configs (may leak personal info)
+.idea/
+.vscode/
+*.swp
+ 
+# This operations doc
+OPERATIONS.md
